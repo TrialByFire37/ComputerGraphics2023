@@ -4,9 +4,9 @@ Variant No.51.
 
 # Previews
 <p align="center">
-  <img src="https://github.com/RyabickinVM/ComputerGraphics2023/blob/main/previews/1_1.png?raw=true" width="300"/>
-  <img src="https://github.com/RyabickinVM/ComputerGraphics2023/blob/main/previews/1_2.png?raw=true" width="300"/><br>
-  <img src="https://github.com/RyabickinVM/ComputerGraphics2023/blob/main/previews/2.png?raw=true" width="300"/><br>
-  <img src="https://github.com/RyabickinVM/ComputerGraphics2023/blob/main/previews/3.png?raw=true" width="300"/><br>
-  <img src="https://github.com/RyabickinVM/ComputerGraphics2023/blob/main/previews/cw.png?raw=true" width="300"/><br>
+  <img src="https://github.com/TrialByFire37/ComputerGraphics2023/blob/main/previews/1_1.png?raw=true" width="300"/>
+  <img src="https://github.com/TrialByFire37/ComputerGraphics2023/blob/main/previews/1_2.png?raw=true" width="300"/><br>
+  <img src="https://github.com/TrialByFire37/ComputerGraphics2023/blob/main/previews/2.png?raw=true" width="300"/><br>
+  <img src="https://github.com/TrialByFire37/ComputerGraphics2023/blob/main/previews/3.png?raw=true" width="300"/><br>
+  <img src="https://github.com/TrialByFire37/ComputerGraphics2023/blob/main/previews/cw.png?raw=true" width="300"/><br>
 </p>
